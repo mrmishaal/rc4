@@ -1,7 +1,7 @@
 ## Screenshots: 
-![HELLO](https://github.com/user-attachments/assets/6e63913e-34fa-48d6-8ae9-575540f1996e)   
 
-![[Pasted image 20260829054355.png|573]]
+
+![first image](Pasted image 20260829054355.png)
 
 ![[Pasted image 20260829054414.png|577]]
 
