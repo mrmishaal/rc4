@@ -1,6 +1,5 @@
 ## Screenshots: 
-![Alt text]([Pasted image 20260829053038.png](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e63913e-34fa-48d6-8ae9-575540f1996e" />
-))   
+![HELLO]([Pasted image 20260829053038.png](https://github.com/user-attachments/assets/6e63913e-34fa-48d6-8ae9-575540f1996e))
 
 ![[Pasted image 20260829054355.png|573]]
 
