@@ -3,20 +3,21 @@
 
 ![C code](https://github.com/mrmishaal/rc4/blob/main/Pasted_image_20260829054414.png?raw=true)
 
-![[Pasted image 20260829054414.png|577]]
+![C code](https://github.com/mrmishaal/rc4/blob/main/images/Pasted_image_20260829054414.png?raw=true)
 
 Lemme create the file to be encrypted `file.txt`. 
 
-![[Pasted image 20260829053038.png|570]]
+![C code](https://github.com/mrmishaal/rc4/blob/main/images/Pasted%20image%2020260829053038.png?raw=true)
 
 Compile the two C codes with gcc. 
 
-![[Pasted image 20260829053203.png|571]]
+![Create a file](https://github.com/mrmishaal/rc4/blob/main/images/Pasted%20image%2020260829053203.png?raw=true)
 
 `file.txt` encrypted
 
-![[Pasted image 20260829053318.png|573]]
+![Encrypting the file](https://github.com/mrmishaal/rc4/blob/main/images/Pasted%20image%2020260829053318.png?raw=true)
 
 I'll decrypt it with the compiled `decrypt`
 
-![[Pasted image 20260829053453.png|567]]
+![Decrypting the file](https://github.com/mrmishaal/rc4/blob/main/images/Pasted%20image%2020260829053453.png?raw=true)
+
