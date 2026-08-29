@@ -1,4 +1,6 @@
 ## Screenshots: 
+![Alt text](Pasted image 20260829054355.png)   
+
 ![[Pasted image 20260829054355.png|573]]
 
 ![[Pasted image 20260829054414.png|577]]
