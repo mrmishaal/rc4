@@ -1,9 +1,9 @@
 ## Screenshots: 
 
 
-![C code](https://github.com/mrmishaal/rc4/blob/main/Pasted_image_20260829054414.png?raw=true)
+![C code](https://github.com/mrmishaal/rc4/blob/main/images/Pasted%20image%2020260829054414.png?raw=true)
 
-![C code](https://github.com/mrmishaal/rc4/blob/main/images/Pasted_image_20260829054414.png?raw=true)
+![C code 2](https://github.com/mrmishaal/rc4/blob/main/images/Pasted%20image%2020260829054355.png?raw=true)
 
 Lemme create the file to be encrypted `file.txt`. 
 
