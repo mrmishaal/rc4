@@ -1,5 +1,6 @@
 ## Screenshots: 
-![Alt text]([Pasted image 20260829053038.png](https://github.com/mrmishaal/rc4/blob/main/Pasted%20image%2020260829053038.png?raw=true))   
+![Alt text]([Pasted image 20260829053038.png](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e63913e-34fa-48d6-8ae9-575540f1996e" />
+))   
 
 ![[Pasted image 20260829054355.png|573]]
 
