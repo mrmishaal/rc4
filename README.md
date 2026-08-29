@@ -1,5 +1,5 @@
 ## Screenshots: 
-![Alt text](Pasted image 20260829054355.png)   
+![Alt text]('Pasted image 20260829054355.png')   
 
 ![[Pasted image 20260829054355.png|573]]
 
