@@ -1,7 +1,7 @@
 ## Screenshots: 
 
 
-![first image](Pasted image 20260829054355.png)
+![C code](https://github.com/mrmishaal/rc4/blob/main/Pasted_image_20260829054414.png?raw=true)
 
 ![[Pasted image 20260829054414.png|577]]
 
